@@ -10,6 +10,7 @@ namespace prueba_2021
     {
         static void Main(string[] args)
         {
+            string git = "Funciona mal (?";
         }
     }
 }
